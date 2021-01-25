@@ -6,8 +6,6 @@
  * data cache, port ireq, iresp, dreq and dresp can be ignored.
  */
 
-`include "refcpu/pkgs.svh"
-
 import common::*;
 import defs::*;
 

@@ -1,5 +1,3 @@
-`include "common.svh"
-
 import common::*;
 
 module IBusToCBus (

@@ -1,4 +1,3 @@
-`include "refcpu/pkgs.svh"
 `include "refcpu/impl.svh"
 
 import common::*;

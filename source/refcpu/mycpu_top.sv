@@ -1,5 +1,3 @@
-`include "refcpu/pkgs.svh"
-
 import common::*;
 
 module mycpu_top (

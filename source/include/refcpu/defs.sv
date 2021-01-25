@@ -1,8 +1,3 @@
-`ifndef __REFCPU_DEFS_SVH__
-`define __REFCPU_DEFS_SVH__
-
-`include "common.svh"
-
 package defs;
 
 import common::*;
@@ -90,5 +85,3 @@ parameter context_t CONTEXT_RESET_VALUE = {
 };
 
 endpackage
-
-`endif

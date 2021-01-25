@@ -2,9 +2,6 @@
  * this file contains basic definitions and typedefs for general designs.
  */
 
-`ifndef __COMMON_SVH__
-`define __COMMON_SVH__
-
 `define BITS(x) logic[(x)-1:0]
 
 package common;
@@ -139,5 +136,3 @@ typedef enum i2 {
 } axi_burst_type_t;
 
 endpackage
-
-`endif

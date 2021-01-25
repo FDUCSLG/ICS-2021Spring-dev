@@ -1,5 +1,3 @@
-`include "refcpu/pkgs.svh"
-
 import defs::*;
 
 module Decode (
